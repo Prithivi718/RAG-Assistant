@@ -1,0 +1,4 @@
+1. Openrouter API key: Used for Response process.
+2. Qdrant Cluster Key: Get the cluster key for uploading the chunks of data..
+3. Qdrant API URL: Create API URL for your collection to Upload chunks of data..
+3. Streamlit : Used for the Frontend.
